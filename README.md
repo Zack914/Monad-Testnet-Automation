@@ -32,8 +32,8 @@ Ensure you have the following installed:
 1️⃣ Open a terminal and run:
 ```bash
 # Clone the repository
-git clone https://github.com/jeje283u29/Monad-Testnet-Automation-TX.git
-cd Monad-Testnet-Automation-TX
+git clone https://github.com/Zack914/Monad-Testnet-Automation.git
+cd Monad-Testnet-Automation
 
 # Install dependencies
 npm install
